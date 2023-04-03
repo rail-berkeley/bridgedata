@@ -23,17 +23,16 @@ WidowX 250 6DOF robot arm.
 
 ## Statistics
 
-- \>30,000 teleoperated demonstrations
-- \>8,000 rollouts from scripted or learned policies
-- \>15 different environments
-- \>10 different skills 
+- 33,078 teleoperated demonstrations
+- 8,887 rollouts from a scripted policy
+- 21 different environments
 
 ## Usage and Contributing
 
 We offer two versions of the dataset: a raw version consisting of 640x480 JPEG images or a processed version consisting of downsampled 128x128 images in NumPy files or TFRecord files. 
 
 [This repository](https://github.com/yanlai00/bridge_data_robot_infra) contains 
-the robot controller and data collection code.
+the robot controller and data collection code. 
 
 Follow the links below to purchase the required equipment:
 
@@ -42,6 +41,8 @@ Follow the links below to purchase the required equipment:
 - [Meta Quest 2 VR Headset](https://www.amazon.com/dp/B099VMT8VZ/) (only needed for data collection)
 
 Please contact [Homer Walke](https://homerwalke.com/) for questions about using the dataset. 
+
+Model training code and a more detailed setup guide will be released soon. 
 
 ## Papers
 
@@ -55,4 +56,4 @@ The following people contributed to the project.
 
 [Frederik Ebert](https://febert.github.io/), [Aviral Kumar](https://aviralkumar2907.github.io/), [Homer Walke](https://homerwalke.com/), [Anikait Singh](https://asap7772.github.io/), [Yanlai Yang](https://yanlai00.github.io/), [Kuan Fang](http://kuanfang.github.io/), [Patrick Yin](https://patrickyin.me/), [Gengchen Yan](https://www.linkedin.com/in/gengchen-matt-yan), [Kevin Black](https://kevinblack.dev/), [Ashvin Nair](https://ashvin.me/), [Karl Schmeckpeper](https://sites.google.com/view/karlschmeckpeper), [Bernadette Bucher](https://bucherb.github.io/), [Georgios Georgakis](https://ggeorgak11.github.io/), [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
-We also thank Abraham Lee, Mia Galatis, Caroline Johnson, Christian Aviña, and Samantha Huang for collecting data. 
+We also thank Abraham Lee, Mia Galatis, Caroline Johnson, Christian Aviña, Samantha Huang, and Nicholas Lofrese for collecting data. 
