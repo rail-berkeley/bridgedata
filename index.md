@@ -57,3 +57,5 @@ The following people contributed to the project.
 [Frederik Ebert](https://febert.github.io/), [Aviral Kumar](https://aviralkumar2907.github.io/), [Homer Walke](https://homerwalke.com/), [Anikait Singh](https://asap7772.github.io/), [Yanlai Yang](https://yanlai00.github.io/), [Kuan Fang](http://kuanfang.github.io/), [Patrick Yin](https://patrickyin.me/), [Gengchen Yan](https://www.linkedin.com/in/gengchen-matt-yan), [Kevin Black](https://kevinblack.dev/), [Ashvin Nair](https://ashvin.me/), [Karl Schmeckpeper](https://sites.google.com/view/karlschmeckpeper), [Bernadette Bucher](https://bucherb.github.io/), [Georgios Georgakis](https://ggeorgak11.github.io/), [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/), [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
 We also thank Abraham Lee, Mia Galatis, Caroline Johnson, Christian Aviña, Samantha Huang, and Nicholas Lofrese for collecting data. 
+
+All data is provided under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
