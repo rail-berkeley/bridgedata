@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Bridge Dataset is a large and diverse dataset of robotic manipulation behaviors designed to facilitate research in scalable robot learning. The dataset is compatible with open-vocabulary, multi-task learning methods conditioned on goal images or natural language instructions. The data consists of human teleoperated demonstrations as well as rollouts from a scripted pick-and-place policy. All the data was collected on a low-cost WidowX 250 6DOF robot arm. 
+BridgeData is a large and diverse dataset of robotic manipulation behaviors designed to facilitate research in scalable robot learning. The dataset is compatible with open-vocabulary, multi-task learning methods conditioned on goal images or natural language instructions. The data consists of human teleoperated demonstrations as well as rollouts from a scripted pick-and-place policy. All the data was collected on a low-cost WidowX 250 6DOF robot arm. 
 
 ![bridge-gif-1](assets/images/bridge_gif1.gif)
 ![bridge-gif-2](assets/images/bridge_gif2.gif)
