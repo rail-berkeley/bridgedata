@@ -1,0 +1,503 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="BridgeData V2: A Dataset for Robot Learning at Scale">
+    <meta name="twitter:image" content="/figures/teaser.png">
+    <meta name="twitter:image" content="https://bridgedata-v2.github.io/figures/teaser.png">
+
+    <title>BridgeData V2</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway|Open+Sans">
+    <link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+    <div class="content-container">
+        <h1 class="title">BridgeData V2: A Dataset for Robot Learning at Scale</h1>
+        <div class="link-buttons">
+            <ul>
+                <li><a href="#">Paper</a></li>
+                <li><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/raw_8_17.zip">Download demo data
+                        (412 GB)</a></li>
+                <li><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/scripted_raw_6_18.zip">Download
+                        scripted data (31 GB)</a></li>
+            </ul>
+
+
+
+        </div>
+        <p>
+            BridgeData V2 is a large and diverse dataset of robotic manipulation behaviors designed to
+            facilitate research in scalable robot learning. The dataset is compatible with open-vocabulary, multi-task
+            learning methods conditioned on goal images or natural language instructions. Skills learned from the data
+            generalize to novel objects and environments, as well as across institutions.
+        </p>
+        <h2>Dataset Composition</h2>
+        <p>
+            To support broad generalization, we collected data for a wide range of tasks in many environments with
+            variation in objects, camera pose, and workspace positioning. Each trajectory is labeled with a natural
+            langauge
+            instruction corresponding to the task the robot is performing.
+        </p>
+        <ul>
+            <li>60,096 trajectories<ul>
+                    <li>50,365 teleoperated demonstrations</li>
+                    <li>9,731 rollouts from a scripted pick-and-place policy</li>
+                </ul>
+            </li>
+            <li>24 environments</li>
+            <li>13 skills</li>
+        </ul>
+        <div class="video-container video-teaser">
+            <div>
+                <h3>Environments</h3>
+                <p>
+                    The environments include toy kitchens, which feature some combination of sinks,
+                    stoves, and microwaves, as well as various tabletops, a toy laundry machine, a tool chest, and more.
+                    Below we show a sample of the environments.
+                </p>
+            </div>
+            <div class="video-grid video-teaser">
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_laundry_machine_put_clothes_in_laundry_machine.mp4"></video>
+                    <img
+                        src="teaser_videos/bridge_data_v1_berkeley_laundry_machine_put_clothes_in_laundry_machine.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_realkitchen1_dishwasher_pick_up_any_cup.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_realkitchen1_dishwasher_pick_up_any_cup.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_tool_chest_pick_up_closest_rainbow_Allen_key_set.mp4"></video>
+                    <img
+                        src="teaser_videos/bridge_data_v1_berkeley_tool_chest_pick_up_closest_rainbow_Allen_key_set.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v2_datacol2_tabletop_dark_wood_many_skills_00.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v2_datacol2_tabletop_dark_wood_many_skills_00.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen6_put_beet_in_pot_sink.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toykitchen6_put_beet_in_pot_sink.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen4_put_banana_in_pot_or_pan.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toykitchen4_put_banana_in_pot_or_pan.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/flap_toykitchen_sequential_tasks_toykitchen2_put_blueberry_on_plate_and_spoon_in_pot_or_pan_in_sink.mp4"></video>
+                    <img
+                        src="teaser_videos/flap_toykitchen_sequential_tasks_toykitchen2_put_blueberry_on_plate_and_spoon_in_pot_or_pan_in_sink.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_realkitchen1_counter_pick_up_sponge_and_wipe_plate.mp4"></video>
+                    <img
+                        src="teaser_videos/bridge_data_v1_berkeley_realkitchen1_counter_pick_up_sponge_and_wipe_plate.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/rss_toykitchen2_set_table_00.mp4"></video>
+                    <img src="teaser_videos/rss_toykitchen2_set_table_00.jpg" />
+                </div>
+                <div class="video">
+                    <video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toysink2_bww_put_knife_on_cutting_board.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toysink2_bww_put_knife_on_cutting_board.jpg" />
+                </div>
+            </div>
+        </div>
+
+        <div class="video-container video-teaser">
+            <div>
+                <h3>Skills</h3>
+                <p>
+                    The skills include foundational behaviors like pick-and-place, pushing, and reorienting objects, as
+                    well as
+                    more complex behaviors like opening and closing doors and drawers, stacking blocks, folding cloths,
+                    and
+                    sweeping granular media. Here we show some of the skills represented in the data.
+                </p>
+            </div>
+            <div class="video-grid video-teaser">
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toysink1_room8052_flip_pot_upright_which_is_in_sink.mp4"></video>
+                    <img
+                        src="teaser_videos/bridge_data_v1_berkeley_toysink1_room8052_flip_pot_upright_which_is_in_sink.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen1_put_banana_on_plate.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toykitchen1_put_banana_on_plate.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v2_datacol2_folding_table_fold_cloth_pnp_01.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v2_datacol2_folding_table_fold_cloth_pnp_01.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/icra_toykitchen_fixed_cam_resetfree_push_sweep_toykitchen6_00.mp4"></video>
+                    <img src="teaser_videos/icra_toykitchen_fixed_cam_resetfree_push_sweep_toykitchen6_00.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen5_close_cabinet.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toykitchen5_close_cabinet.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen2_room8052_turn_lever_vertical_to_front.mp4"></video>
+                    <img
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen2_room8052_turn_lever_vertical_to_front.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v1_berkeley_toykitchen2_room8052_flip_salt_upright.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v1_berkeley_toykitchen2_room8052_flip_salt_upright.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v2_datacol2_toykitchen7_sweep_granular_00.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v2_datacol2_toykitchen7_sweep_granular_00.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v2_datacol2_toykitchen7_drawer_pnp_01.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v2_datacol2_toykitchen7_drawer_pnp_01.jpg" />
+                </div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsineline autoplay loop
+                        src="teaser_videos/bridge_data_v2_deepthought_folding_table_stack_blocks_01.mp4"></video>
+                    <img src="teaser_videos/bridge_data_v2_deepthought_folding_table_stack_blocks_01.jpg" />
+                </div>
+            </div>
+        </div>
+        <!-- <ul>
+            <li>Pick-and-place (includes reorienting objects in place)</li>
+            <li>Pushing objects</li>
+            <li>Wiping (e.g., wiping the table with a cloth)</li>
+            <li>Sweeping (e.g., sweeping beans into a pile)</li>
+            <li>Stacking</li>
+            <li>Folding cloths</li>
+            <li>Opening and closing drawers</li>
+            <li>Opening and closing doors</li>
+            <li>Opening and closing cardboard box flaps</li>
+            <li>Twisting knobs</li>
+            <li>Flipping switches</li>
+            <li>Zipping and unzipping</li>
+            <li>Turning levers</li>
+        </ul> -->
+        <div class="video-container">
+            <div class="video-header">
+                <h2>View a Random Trajectory</h2>
+                <div id="sample-button">
+                    <img src="icons/replay.svg" />
+                    <div>Sample</div>
+                </div>
+            </div>
+            <div class="video-grid lang">
+                <div class="method">Language Annotation</div>
+                <div class="method">Initial</div>
+                <div class="method">Final</div>
+                <div class="task" id="annotation">loading...</div>
+                <div class="video"><img id="first_image" src="icons/dots.jpg" /></div>
+                <div class="video"><img id="last_image" src="icons/dots.jpg" /></video></div>
+            </div>
+        </div>
+        <p>
+            Use the "Sample" button to view a random trajectory from the dataset! We show the intial and final
+            states of the trajectory, as well as the corresponding natural language annotation.
+        </p>
+        <h2>Usage</h2>
+        <p>
+            We provide both model training code and pre-trained weights for getting started with BridgeData V2.
+        </p>
+        <ul>
+            <li><a href="https://github.com/rail-berkeley/BridgeData-V2">This repository</a> provides code and instructions for training on the dataset and evaluating policies.</li>
+            <li><a href="https://docs.google.com/document/d/1si-6cTElTWTgflwcZRPfgHU7-UwfCUkEztkH3ge5CGc/edit?usp=sharing">This guide</a> provides instructions for setting up the robot hardware.</li>
+        </ul>
+             
+
+
+        <h2>Evaluations of Offline Learning Methods</h2>
+        <p>
+            We evaluated several state-of-the-art offline learning methods using the dataset. We first evaluated
+            on
+            tasks that are seen in the training data. Even though these tasks are seen in training, the methods
+            must
+            still generalize to novel object positions, distractor objects, and lighting. Next, we evaluated on
+            tasks
+            that require generalizing skills in the data to novel objects and environments. Below we show videos
+            for
+            some of the seen and unseen tasks evaluated in the paper. All videos are shown at 2x speed.
+        </p>
+        <div class="video-container">
+            <div class="video-header">
+                <h3>Seen Goal-Conditioned Tasks</h3>
+                <div class="play-button">
+                    <img src="icons/play.svg" />
+                    <div>Play</div>
+                </div>
+            </div>
+            <div class="video-grid">
+                <div class="method">Goal Image</div>
+                <div class="method">GCBC</div>
+                <div class="method">D-GCBC</div>
+                <div class="method">CRL</div>
+                <div class="method">ACT</div>
+                <div class="task"><img src="goals/beans.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/beans/gcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/beans/ddpm_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/beans/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/beans/act_success.mp4"></video></div>
+                <div class="task"><img src="goals/pnp.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/pnp/gcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/pnp/ddpm_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/pnp/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/pnp/act_success.mp4"></video></div>
+                <div class="task"><img src="goals/drawer.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/drawer/gcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/drawer/ddpm_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/drawer/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/drawer/act_success.mp4"></video></div>
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-header">
+                <h3>Unseen Goal-Conditioned Tasks</h3>
+                <div class="play-button">
+                    <img src="icons/play.svg" />
+                    <div>Play</div>
+                </div>
+            </div>
+            <div class="video-grid">
+                <div class="method">Goal Image</div>
+                <div class="method">GCBC</div>
+                <div class="method">D-GCBC</div>
+                <div class="method">CRL</div>
+                <div class="method">ACT</div>
+                <div class="task"><img src="goals/rice.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/rice/gcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/rice/ddpm_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/rice/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/rice/act_success.mp4"></video></div>
+                <div class="task"><img src="goals/unseen_pnp.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_pnp/gcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_pnp/ddpm_fail.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_pnp/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_pnp/act_success.mp4"></video></div>
+                <div class="task"><img src="goals/unseen_cloth.jpg" /></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_cloth/gcbc_fail.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_cloth/ddpm_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_cloth/crl_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/unseen_cloth/act_success.mp4"></video></div>
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-header">
+                <h3>Seen Language-Conditioned Tasks</h3>
+                <div class="play-button">
+                    <img src="icons/play.svg" />
+                    <div>Play</div>
+                </div>
+            </div>
+            <div class="video-grid lang">
+                <div class="method">Language Instruction</div>
+                <div class="method">LCBC</div>
+                <div class="method">RT-1</div>
+                <div class="task">put the carrot on the plate</div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/carrot/lcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/carrot/rt1_success.mp4"></video></div>
+                <div class="task">flip the pot upright</div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/flip_pot/lcbc_fail.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/flip_pot/rt1_success.mp4"></video></div>
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-header">
+                <h3>Unseen Language-Conditioned Tasks</h3>
+                <div class="play-button">
+                    <img src="icons/play.svg" />
+                    <div>Play</div>
+                </div>
+            </div>
+            <div class="video-grid lang">
+                <div class="method">Language Instruction</div>
+                <div class="method">LCBC</div>
+                <div class="method">RT-1</div>
+                <div class="task">put the mushroom in the pot</div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/mushroom/lcbc_fail.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/mushroom/rt1_success.mp4"></video></div>
+                <div class="task">move the cloth to the left</div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/wipe_cloth/lcbc_success.mp4"></video></div>
+                <div class="video"><video disableRemotePlayback muted webkit-playsinline playsinline
+                        src="videos_2x/wipe_cloth/rt1_success.mp4"></video></div>
+            </div>
+        </div>
+
+        <h2>System Setup</h2>
+        <div class="hardware">
+            <img src="figures/hardware.svg" />
+        </div>
+        <p>
+            All the data was collected on a WidowX 250 6DOF robot arm. We collect demonstrations
+            by teleoperating the robot with a VR controller. The control frequency is 5 Hz and the average
+            trajectory length is 38 timesteps. For sensing, we use an RGBD camera that is fixed in an over-the-shoulder
+            view, two RGB cameras with poses that are randomized during data collection, and RGB camera attached to the
+            robot's wrist. The images are saved at a 640x480 resolution.
+        </p>
+        <h2>Papers</h2>
+        <ul>
+            <li><a href="https://arxiv.org/abs/2109.13396">Bridge Data: Boosting Generalization of Robotic Skills with
+                    Cross-Domain Datasets</a></li>
+            <li><a href="https://arxiv.org/abs/2210.05178">Pre-Training for Robots: Offline RL Enables Learning New
+                    Tasks from a Handful of Trials</a></li>
+            <li><a href="https://arxiv.org/abs/2210.06601">Generalization with Lossy Affordances: Leveraging Broad
+                    Offline Data for Learning Visuomotor Tasks</a></li>
+            <li><a href="#">BridgeData V2: A Dataset for Robot Learning at Scale</a></li>
+        </ul>
+        <h2>Contributors</h2>
+        <p>
+            The following people contributed to the project.
+        </p>
+        <p><a href="https://homerwalke.com/">Homer Walke</a>, <a href="https://kevinblack.dev/">Kevin Black</a>, <a
+                href="https://febert.github.io/">Frederik Ebert</a>, <a href="https://aviralkumar2907.github.io/">Aviral
+                Kumar</a>, <a href="https://asap7772.github.io/">Anikait Singh</a>, <a
+                href="https://yanlai00.github.io/">Yanlai Yang</a>, <a href="https://patrickyin.me/">Patrick Yin</a>, <a
+                href="https://www.linkedin.com/in/gengchen-matt-yan">Gengchen Yan</a>, <a
+                href="http://kuanfang.github.io/">Kuan Fang</a>, <a href="https://ashvin.me/">Ashvin Nair</a>, <a
+                href="https://sites.google.com/view/karlschmeckpeper">Karl Schmeckpeper</a>, <a
+                href="https://bucherb.github.io/">Bernadette Bucher</a>, <a
+                href="https://ggeorgak11.github.io/">Georgios Georgakis</a>, <a
+                href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>, <a
+                href="https://ai.stanford.edu/~cbfinn/">Chelsea Finn</a>, <a
+                href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a></p>
+        <p>
+            We also thank Abraham Lee, Mia Galatis, Caroline Johnson, Christian Aviña, Samantha Huang, and Nicholas
+            Lofrese for collecting data.
+        </p>
+        <p>
+            All data is provided under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                Attribution 4.0 International License</a>
+        </p>
+
+        If you use BridgeData V2 in your work, please cite with:
+        <br><br>
+        <code>
+        @article{walke2023bridgedata,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;title={BridgeData V2: A Dataset for Robot Learning at Scale},<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;author={Walke, Homer and Black, Kevin and Zhao, Tony and Vuong, Quan and Zheng, Chongyi and Hansen-Estruch, Philippe and He, Andre and Myers, Vivek and Kim, Moo Jin and Du, Max and Lee, Abraham and Fang, Kuan and Finn, Chelsea and Levine, Sergey},<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;year={2023}<br>
+        }
+        </code>
+
+    </div>
+
+    </div>
+
+    <script>
+        // replay button animation
+        new Image().src = 'icons/replay.svg' // preload
+
+        const playButtons = document.querySelectorAll('.play-button');
+        playButtons.forEach((button) => {
+            button.addEventListener('click', () => {
+                button.parentElement.parentElement.querySelectorAll('video').forEach((video) => {
+                    try {
+                        video.fastSeek(0);
+                    } catch (error) {
+                        video.currentTime = 0;
+                    }
+                    video.play();
+                });
+                const img = button.querySelector('img');
+                img.src = 'icons/replay.svg';
+
+                const text = button.querySelector('div');
+                text.innerText = 'Replay';
+
+                button.classList.remove('replay');
+                void button.offsetWidth;
+                button.classList.add('replay');
+            });
+        });
+
+        // View Random Trajectory Widget
+        var trajLinks;
+        fetch("traj_links.csv")
+            .then(response => response.text())
+            .then(text => trajLinks = text.split(/\r\n|\n/))
+            .then(sample);
+
+        const prefix = "https://rail.eecs.berkeley.edu/datasets/bridge_release/";
+        const firstImage = document.querySelector("#first_image");
+        const lastImage = document.querySelector("#last_image");
+        const annotation = document.querySelector("#annotation");
+        function sample() {
+            if (typeof trajLinks === 'undefined') return;
+
+            firstImage.src = 'icons/dots.jpg';
+            lastImage.src = 'icons/dots.jpg';
+            annotation.innerText = 'loading...';
+
+            const index = Math.floor(Math.random() * trajLinks.length);
+            const links = trajLinks[index].split(",");
+
+            firstImage.src = prefix + links[0];
+            lastImage.src = prefix + links[1];
+            annotation.innerText = links[2];
+        }
+
+        const sampleButton = document.querySelector('#sample-button');
+        sampleButton.addEventListener('click', () => {
+            if (firstImage.src.includes('dots.jpg') || lastImage.src.includes('dots.jpg')) return;
+
+            sample();
+
+            sampleButton.classList.remove('replay');
+            void sampleButton.offsetWidth;
+            sampleButton.classList.add('replay');
+        });
+    </script>
+</body>

@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg164"
+   width="613.07001"
+   height="229.96899"
+   viewBox="0 0 613.07 229.96899"
+   sodipodi:docname="scaling.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:export-filename="scaling.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs168">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath184">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath194">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path192" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath214">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path212" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath224">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath244">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path242" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath254">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath278">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path276" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath288">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path286" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath316">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path314" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath326">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path324" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath354">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path352" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath364">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path362" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath392">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path390" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath402">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path400" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath430">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path428" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath440">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path438" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath468">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path466" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath478">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path476" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath510">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         id="path508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath520">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path518" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath534">
+      <path
+         d="M 32.113,80.48 H 50.175 V 98.542 H 32.113 Z"
+         id="path532" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath544">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path542" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath558">
+      <path
+         d="m 113.555,47.102 h 18.062 v 18.062 h -18.062 z"
+         id="path556" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath568">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path566" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath582">
+      <path
+         d="m 195,2.598 h 18.062 V 20.66 H 195 Z"
+         id="path580" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath592">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path590" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath626">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path624" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath636">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path634" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath664">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path662" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath674">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path672" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath702">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path700" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath712">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path710" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath740">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path738" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath750">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path748" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath782">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path780" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath792">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path790" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath820">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path818" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath830">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path828" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath858">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path856" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath868">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path866" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath896">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path894" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath906">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path904" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath934">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path932" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path942" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath972">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path970" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath982">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path980" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1014">
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         id="path1012" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1024">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1022" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1038">
+      <path
+         d="m 270.691,59.434 h 15.656 v 15.652 h -15.656 z"
+         id="path1036" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1048">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1046" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1062">
+      <path
+         d="M 324.988,37.18 H 340.64 V 52.832 H 324.988 Z"
+         id="path1060" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1072">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1070" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1086">
+      <path
+         d="m 379.285,37.18 h 15.652 v 15.652 h -15.652 z"
+         id="path1084" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1096">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1094" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1110">
+      <path
+         d="m 433.578,3.801 h 15.656 v 15.652 h -15.656 z"
+         id="path1108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1120">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1118" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1136">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1134" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1150">
+      <path
+         d="m 270.691,115.062 h 15.656 v 15.656 h -15.656 z"
+         id="path1148" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1160">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1158" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1174">
+      <path
+         d="M 324.988,48.305 H 340.64 V 63.961 H 324.988 Z"
+         id="path1172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1184">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1198">
+      <path
+         d="m 379.285,48.305 h 15.652 v 15.656 h -15.652 z"
+         id="path1196" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1208">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1206" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1222">
+      <path
+         d="m 433.578,48.305 h 15.656 v 15.656 h -15.656 z"
+         id="path1220" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1232">
+      <path
+         d="M 0,0 H 451 V 164 H 0 Z"
+         id="path1230" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview166"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3150632"
+     inkscape:cx="279.07403"
+     inkscape:cy="109.88065"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g172">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page170"
+       width="613.07001"
+       height="229.96899" />
+  </sodipodi:namedview>
+  <g
+     id="g172"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,1.3333333,0,1.0115904e-5)">
+    <g
+       id="g174"
+       transform="translate(3.431495,4.3885417)">
+      <path
+         d="M 33,0.5 H 212.176 V 134.016 H 33 Z"
+         style="fill:#eaeaf2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path176" />
+    </g>
+    <g
+       id="g178"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g180"
+         clip-path="url(#clipPath184)">
+        <g
+           id="g186">
+          <g
+             id="g188">
+            <g
+               id="g190"
+               clip-path="url(#clipPath194)">
+              <g
+                 id="g196">
+                <g
+                   id="g198"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 41.145,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path200" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g202"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(21.385243,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text206"><tspan
+           x="0 6.466083 10.363328 13.820703 20.418747 24.315992 27.720583 30.641315 35.040012"
+           y="0"
+           sodipodi:role="line"
+           id="tspan204">ResNet-18</tspan></text>
+    </g>
+    <g
+       id="g208"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g210"
+         clip-path="url(#clipPath214)">
+        <g
+           id="g216">
+          <g
+             id="g218">
+            <g
+               id="g220"
+               clip-path="url(#clipPath224)">
+              <g
+                 id="g226">
+                <g
+                   id="g228"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 122.586,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path230" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g232"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(102.82912,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text236"><tspan
+           x="0 6.466083 10.363328 13.820703 20.418747 24.315992 27.720583 30.641315 35.040012"
+           y="0"
+           sodipodi:role="line"
+           id="tspan234">ResNet-34</tspan></text>
+    </g>
+    <g
+       id="g238"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g240"
+         clip-path="url(#clipPath244)">
+        <g
+           id="g246">
+          <g
+             id="g248">
+            <g
+               id="g250"
+               clip-path="url(#clipPath254)">
+              <g
+                 id="g256">
+                <g
+                   id="g258"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 204.031,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path260" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g262"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(184.27299,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text266"><tspan
+           x="0 6.466083 10.363328 13.820703 20.418747 24.315992 27.720583 30.641315 35.040012"
+           y="0"
+           sodipodi:role="line"
+           id="tspan264">ResNet-50</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(84.006099,161.00519)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text270"><tspan
+           sodipodi:role="line"
+           id="tspan2789"
+           x="0"
+           y="0">Image Encoder</tspan></text>
+    </g>
+    <g
+       id="g272"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g274"
+         clip-path="url(#clipPath278)">
+        <g
+           id="g280">
+          <g
+             id="g282">
+            <g
+               id="g284"
+               clip-path="url(#clipPath288)">
+              <g
+                 id="g290">
+                <g
+                   id="g292"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-122.891 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path294" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g296"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,125.94552)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text300"><tspan
+           x="0"
+           y="0"
+           id="tspan298">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,125.94552)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text304"><tspan
+           x="0"
+           y="0"
+           id="tspan302">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,125.94552)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text308"><tspan
+           x="0"
+           y="0"
+           id="tspan306">0</tspan></text>
+    </g>
+    <g
+       id="g310"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g312"
+         clip-path="url(#clipPath316)">
+        <g
+           id="g318">
+          <g
+             id="g320">
+            <g
+               id="g322"
+               clip-path="url(#clipPath326)">
+              <g
+                 id="g328">
+                <g
+                   id="g330"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-100.637 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path332" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g334"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,103.69295)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text338"><tspan
+           x="0"
+           y="0"
+           id="tspan336">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,103.69295)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text342"><tspan
+           x="0"
+           y="0"
+           id="tspan340">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,103.69295)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text346"><tspan
+           x="0"
+           y="0"
+           id="tspan344">2</tspan></text>
+    </g>
+    <g
+       id="g348"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g350"
+         clip-path="url(#clipPath354)">
+        <g
+           id="g356">
+          <g
+             id="g358">
+            <g
+               id="g360"
+               clip-path="url(#clipPath364)">
+              <g
+                 id="g366">
+                <g
+                   id="g368"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-78.387 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path370" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g372"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,81.440373)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text376"><tspan
+           x="0"
+           y="0"
+           id="tspan374">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,81.440373)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text380"><tspan
+           x="0"
+           y="0"
+           id="tspan378">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,81.440373)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text384"><tspan
+           x="0"
+           y="0"
+           id="tspan382">4</tspan></text>
+    </g>
+    <g
+       id="g386"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g388"
+         clip-path="url(#clipPath392)">
+        <g
+           id="g394">
+          <g
+             id="g396">
+            <g
+               id="g398"
+               clip-path="url(#clipPath402)">
+              <g
+                 id="g404">
+                <g
+                   id="g406"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-56.133 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path408" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g410"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,59.187803)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text414"><tspan
+           x="0"
+           y="0"
+           id="tspan412">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,59.187803)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text418"><tspan
+           x="0"
+           y="0"
+           id="tspan416">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,59.187803)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text422"><tspan
+           x="0"
+           y="0"
+           id="tspan420">6</tspan></text>
+    </g>
+    <g
+       id="g424"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g426"
+         clip-path="url(#clipPath430)">
+        <g
+           id="g432">
+          <g
+             id="g434">
+            <g
+               id="g436"
+               clip-path="url(#clipPath440)">
+              <g
+                 id="g442">
+                <g
+                   id="g444"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-33.879 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path446" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g448"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,36.935233)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text452"><tspan
+           x="0"
+           y="0"
+           id="tspan450">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,36.935233)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text456"><tspan
+           x="0"
+           y="0"
+           id="tspan454">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,36.935233)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text460"><tspan
+           x="0"
+           y="0"
+           id="tspan458">8</tspan></text>
+    </g>
+    <g
+       id="g462"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g464"
+         clip-path="url(#clipPath468)">
+        <g
+           id="g470">
+          <g
+             id="g472">
+            <g
+               id="g474"
+               clip-path="url(#clipPath478)">
+              <g
+                 id="g480">
+                <g
+                   id="g482"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 33,-11.629 H 212.176"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path484" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g486"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(14.130994,14.682662)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text490"><tspan
+           x="0"
+           y="0"
+           id="tspan488">1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(18.529689,14.682662)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text494"><tspan
+           x="0"
+           y="0"
+           id="tspan492">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(20.966567,14.682662)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text498"><tspan
+           x="0"
+           y="0"
+           id="tspan496">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="rotate(-90,65.811358,57.224039)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text502"><tspan
+           sodipodi:role="line"
+           id="tspan2791"
+           x="0"
+           y="0">Average Success Rate</tspan></text>
+    </g>
+    <g
+       id="g504"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g506"
+         clip-path="url(#clipPath510)">
+        <g
+           id="g512">
+          <g
+             id="g514">
+            <g
+               id="g516"
+               clip-path="url(#clipPath520)">
+              <g
+                 id="g522">
+                <g
+                   id="g524"
+                   transform="scale(1,-1)">
+                  <path
+                     d="m 41.145,-89.512 81.441,33.379 81.445,44.504"
+                     style="fill:none;stroke:#029e73;stroke-width:1.20414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path526" />
+                </g>
+              </g>
+              <g
+                 id="g528">
+                <g
+                   id="g530"
+                   clip-path="url(#clipPath534)">
+                  <g
+                     id="g536">
+                    <g
+                       id="g538">
+                      <g
+                         id="g540"
+                         clip-path="url(#clipPath544)">
+                        <g
+                           id="g546">
+                          <g
+                             id="g548"
+                             transform="scale(1,-1)">
+                            <path
+                               d="M 41.145,-83.492 35.121,-95.531 H 47.164 Z"
+                               style="fill:#029e73;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path550" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g552">
+                <g
+                   id="g554"
+                   clip-path="url(#clipPath558)">
+                  <g
+                     id="g560">
+                    <g
+                       id="g562">
+                      <g
+                         id="g564"
+                         clip-path="url(#clipPath568)">
+                        <g
+                           id="g570">
+                          <g
+                             id="g572"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 122.586,-50.113 -6.02,-12.039 h 12.039 z"
+                               style="fill:#029e73;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path574" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g576">
+                <g
+                   id="g578"
+                   clip-path="url(#clipPath582)">
+                  <g
+                     id="g584">
+                    <g
+                       id="g586">
+                      <g
+                         id="g588"
+                         clip-path="url(#clipPath592)">
+                        <g
+                           id="g594">
+                          <g
+                             id="g596"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 204.031,-5.605 -6.019,-12.043 h 12.039 z"
+                               style="fill:#029e73;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path598" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g600"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g602"
+         transform="scale(1,-1)">
+        <path
+           d="M 33,-134.016 V -0.5"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path604" />
+      </g>
+      <g
+         id="g606"
+         transform="scale(1,-1)">
+        <path
+           d="M 212.176,-134.016 V -0.5"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path608" />
+      </g>
+      <g
+         id="g610"
+         transform="scale(1,-1)">
+        <path
+           d="M 33,-134.016 H 212.176"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path612" />
+      </g>
+      <g
+         id="g614"
+         transform="scale(1,-1)">
+        <path
+           d="M 33,-0.5 H 212.176"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path616" />
+      </g>
+      <path
+         d="M 270.375,0.5 H 449.551 V 134.016 H 270.375 Z"
+         style="fill:#eaeaf2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path618" />
+    </g>
+    <g
+       id="g620"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g622"
+         clip-path="url(#clipPath626)">
+        <g
+           id="g628">
+          <g
+             id="g630">
+            <g
+               id="g632"
+               clip-path="url(#clipPath636)">
+              <g
+                 id="g638">
+                <g
+                   id="g640"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 278.52,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path642" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g644"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(270.69903,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text648"><tspan
+           x="0"
+           y="0"
+           id="tspan646">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(275.09773,147.75269)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text652"><tspan
+           x="0"
+           y="0"
+           id="tspan650">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(277.5346,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text656"><tspan
+           x="0 4.3986959"
+           y="0"
+           sodipodi:role="line"
+           id="tspan654">25</tspan></text>
+    </g>
+    <g
+       id="g658"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g660"
+         clip-path="url(#clipPath664)">
+        <g
+           id="g666">
+          <g
+             id="g668">
+            <g
+               id="g670"
+               clip-path="url(#clipPath674)">
+              <g
+                 id="g676">
+                <g
+                   id="g678"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 332.816,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path680" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g682"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(324.99495,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text686"><tspan
+           x="0"
+           y="0"
+           id="tspan684">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(329.39364,147.75269)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text690"><tspan
+           x="0"
+           y="0"
+           id="tspan688">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(331.83052,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text694"><tspan
+           x="0 4.3986959"
+           y="0"
+           sodipodi:role="line"
+           id="tspan692">50</tspan></text>
+    </g>
+    <g
+       id="g696"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g698"
+         clip-path="url(#clipPath702)">
+        <g
+           id="g704">
+          <g
+             id="g706">
+            <g
+               id="g708"
+               clip-path="url(#clipPath712)">
+              <g
+                 id="g714">
+                <g
+                   id="g716"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 387.109,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path718" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g720"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(379.29087,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text724"><tspan
+           x="0"
+           y="0"
+           id="tspan722">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(383.68957,147.75269)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text728"><tspan
+           x="0"
+           y="0"
+           id="tspan726">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(386.12644,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text732"><tspan
+           x="0 4.3986959"
+           y="0"
+           sodipodi:role="line"
+           id="tspan730">75</tspan></text>
+    </g>
+    <g
+       id="g734"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g736"
+         clip-path="url(#clipPath740)">
+        <g
+           id="g742">
+          <g
+             id="g744">
+            <g
+               id="g746"
+               clip-path="url(#clipPath750)">
+              <g
+                 id="g752">
+                <g
+                   id="g754"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 441.406,-134.016 V -0.5"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path756" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g758"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(433.58678,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text762"><tspan
+           x="0"
+           y="0"
+           id="tspan760">1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(437.98548,147.75269)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text766"><tspan
+           x="0"
+           y="0"
+           id="tspan764">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(440.42236,147.75269)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text770"><tspan
+           x="0 4.3986959"
+           y="0"
+           sodipodi:role="line"
+           id="tspan768">00</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(303.48432,161.00519)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text774"><tspan
+           sodipodi:role="line"
+           id="tspan2787"
+           x="0"
+           y="0">Proportion of Dataset</tspan></text>
+    </g>
+    <g
+       id="g776"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g778"
+         clip-path="url(#clipPath782)">
+        <g
+           id="g784">
+          <g
+             id="g786">
+            <g
+               id="g788"
+               clip-path="url(#clipPath792)">
+              <g
+                 id="g794">
+                <g
+                   id="g796"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-122.891 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path798" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g800"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,125.94552)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text804"><tspan
+           x="0"
+           y="0"
+           id="tspan802">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,125.94552)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text808"><tspan
+           x="0"
+           y="0"
+           id="tspan806">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,125.94552)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text812"><tspan
+           x="0"
+           y="0"
+           id="tspan810">0</tspan></text>
+    </g>
+    <g
+       id="g814"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g816"
+         clip-path="url(#clipPath820)">
+        <g
+           id="g822">
+          <g
+             id="g824">
+            <g
+               id="g826"
+               clip-path="url(#clipPath830)">
+              <g
+                 id="g832">
+                <g
+                   id="g834"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-100.637 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path836" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g838"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,103.69295)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text842"><tspan
+           x="0"
+           y="0"
+           id="tspan840">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,103.69295)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text846"><tspan
+           x="0"
+           y="0"
+           id="tspan844">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,103.69295)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text850"><tspan
+           x="0"
+           y="0"
+           id="tspan848">2</tspan></text>
+    </g>
+    <g
+       id="g852"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g854"
+         clip-path="url(#clipPath858)">
+        <g
+           id="g860">
+          <g
+             id="g862">
+            <g
+               id="g864"
+               clip-path="url(#clipPath868)">
+              <g
+                 id="g870">
+                <g
+                   id="g872"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-78.387 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path874" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g876"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,81.440373)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text880"><tspan
+           x="0"
+           y="0"
+           id="tspan878">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,81.440373)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text884"><tspan
+           x="0"
+           y="0"
+           id="tspan882">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,81.440373)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text888"><tspan
+           x="0"
+           y="0"
+           id="tspan886">4</tspan></text>
+    </g>
+    <g
+       id="g890"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g892"
+         clip-path="url(#clipPath896)">
+        <g
+           id="g898">
+          <g
+             id="g900">
+            <g
+               id="g902"
+               clip-path="url(#clipPath906)">
+              <g
+                 id="g908">
+                <g
+                   id="g910"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-56.133 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path912" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g914"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,59.187803)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text918"><tspan
+           x="0"
+           y="0"
+           id="tspan916">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,59.187803)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text922"><tspan
+           x="0"
+           y="0"
+           id="tspan920">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,59.187803)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text926"><tspan
+           x="0"
+           y="0"
+           id="tspan924">6</tspan></text>
+    </g>
+    <g
+       id="g928"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g930"
+         clip-path="url(#clipPath934)">
+        <g
+           id="g936">
+          <g
+             id="g938">
+            <g
+               id="g940"
+               clip-path="url(#clipPath944)">
+              <g
+                 id="g946">
+                <g
+                   id="g948"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-33.879 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path950" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g952"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,36.935233)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text956"><tspan
+           x="0"
+           y="0"
+           id="tspan954">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,36.935233)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text960"><tspan
+           x="0"
+           y="0"
+           id="tspan958">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,36.935233)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text964"><tspan
+           x="0"
+           y="0"
+           id="tspan962">8</tspan></text>
+    </g>
+    <g
+       id="g966"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g968"
+         clip-path="url(#clipPath972)">
+        <g
+           id="g974">
+          <g
+             id="g976">
+            <g
+               id="g978"
+               clip-path="url(#clipPath982)">
+              <g
+                 id="g984">
+                <g
+                   id="g986"
+                   transform="scale(1,-1)">
+                  <path
+                     d="M 270.375,-11.629 H 449.551"
+                     style="fill:none;stroke:#ffffff;stroke-width:0.802762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path988" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g990"
+       transform="translate(3.431495,4.3885417)">
+      <text
+         xml:space="preserve"
+         transform="translate(251.50719,14.682662)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text994"><tspan
+           x="0"
+           y="0"
+           id="tspan992">1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(255.90588,14.682662)"
+         style="font-style:italic;font-variant:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text998"><tspan
+           x="0"
+           y="0"
+           id="tspan996">.</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(258.34276,14.682662)"
+         style="font-variant:normal;font-weight:normal;font-size:8.79739px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text1002"><tspan
+           x="0"
+           y="0"
+           id="tspan1000">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="rotate(-90,184.49946,-61.464063)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text1006"><tspan
+           sodipodi:role="line"
+           id="tspan2793"
+           x="0"
+           y="0">Average Success Rate</tspan></text>
+    </g>
+    <g
+       id="g1008"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g1010"
+         clip-path="url(#clipPath1014)">
+        <g
+           id="g1016">
+          <g
+             id="g1018">
+            <g
+               id="g1020"
+               clip-path="url(#clipPath1024)">
+              <g
+                 id="g1026">
+                <g
+                   id="g1028"
+                   transform="scale(1,-1)">
+                  <path
+                     d="m 278.52,-67.258 54.296,22.25 h 54.293 l 54.297,33.379"
+                     style="fill:none;stroke:#0173b2;stroke-width:1.20414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path1030" />
+                </g>
+              </g>
+              <g
+                 id="g1032">
+                <g
+                   id="g1034"
+                   clip-path="url(#clipPath1038)">
+                  <g
+                     id="g1040">
+                    <g
+                       id="g1042">
+                      <g
+                         id="g1044"
+                         clip-path="url(#clipPath1048)">
+                        <g
+                           id="g1050">
+                          <g
+                             id="g1052"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 278.52,-72.074 c 1.277,0 2.503,0.504 3.406,1.41 0.902,0.902 1.41,2.129 1.41,3.406 0,1.278 -0.508,2.5 -1.41,3.403 -0.903,0.906 -2.129,1.414 -3.406,1.414 -1.278,0 -2.504,-0.508 -3.407,-1.414 -0.902,-0.903 -1.41,-2.125 -1.41,-3.403 0,-1.277 0.508,-2.504 1.41,-3.406 0.903,-0.906 2.129,-1.41 3.407,-1.41 z"
+                               style="fill:#0173b2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1054" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1056">
+                <g
+                   id="g1058"
+                   clip-path="url(#clipPath1062)">
+                  <g
+                     id="g1064">
+                    <g
+                       id="g1066">
+                      <g
+                         id="g1068"
+                         clip-path="url(#clipPath1072)">
+                        <g
+                           id="g1074">
+                          <g
+                             id="g1076"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 332.816,-49.824 c 1.278,0 2.5,0.508 3.407,1.41 0.902,0.906 1.41,2.129 1.41,3.406 0,1.278 -0.508,2.504 -1.41,3.406 -0.907,0.903 -2.129,1.411 -3.407,1.411 -1.277,0 -2.503,-0.508 -3.406,-1.411 -0.906,-0.902 -1.41,-2.128 -1.41,-3.406 0,-1.277 0.504,-2.5 1.41,-3.406 0.903,-0.902 2.129,-1.41 3.406,-1.41 z"
+                               style="fill:#0173b2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1078" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1080">
+                <g
+                   id="g1082"
+                   clip-path="url(#clipPath1086)">
+                  <g
+                     id="g1088">
+                    <g
+                       id="g1090">
+                      <g
+                         id="g1092"
+                         clip-path="url(#clipPath1096)">
+                        <g
+                           id="g1098">
+                          <g
+                             id="g1100"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 387.109,-49.824 c 1.278,0 2.504,0.508 3.407,1.41 0.902,0.906 1.41,2.129 1.41,3.406 0,1.278 -0.508,2.504 -1.41,3.406 -0.903,0.903 -2.129,1.411 -3.407,1.411 -1.277,0 -2.5,-0.508 -3.406,-1.411 -0.902,-0.902 -1.41,-2.128 -1.41,-3.406 0,-1.277 0.508,-2.5 1.41,-3.406 0.906,-0.902 2.129,-1.41 3.406,-1.41 z"
+                               style="fill:#0173b2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1102" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1104">
+                <g
+                   id="g1106"
+                   clip-path="url(#clipPath1110)">
+                  <g
+                     id="g1112">
+                    <g
+                       id="g1114">
+                      <g
+                         id="g1116"
+                         clip-path="url(#clipPath1120)">
+                        <g
+                           id="g1122">
+                          <g
+                             id="g1124"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 441.406,-16.445 c 1.278,0 2.504,0.507 3.407,1.41 0.902,0.906 1.41,2.129 1.41,3.406 0,1.277 -0.508,2.504 -1.41,3.406 -0.903,0.903 -2.129,1.411 -3.407,1.411 -1.277,0 -2.504,-0.508 -3.406,-1.411 -0.902,-0.902 -1.41,-2.129 -1.41,-3.406 0,-1.277 0.508,-2.5 1.41,-3.406 0.902,-0.903 2.129,-1.41 3.406,-1.41 z"
+                               style="fill:#0173b2;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1126" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1128">
+          <g
+             id="g1130">
+            <g
+               id="g1132"
+               clip-path="url(#clipPath1136)">
+              <g
+                 id="g1138">
+                <g
+                   id="g1140"
+                   transform="scale(1,-1)">
+                  <path
+                     d="m 278.52,-122.891 54.296,66.758 h 108.59"
+                     style="fill:none;stroke:#de8f05;stroke-width:1.20414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path1142" />
+                </g>
+              </g>
+              <g
+                 id="g1144">
+                <g
+                   id="g1146"
+                   clip-path="url(#clipPath1150)">
+                  <g
+                     id="g1152">
+                    <g
+                       id="g1154">
+                      <g
+                         id="g1156"
+                         clip-path="url(#clipPath1160)">
+                        <g
+                           id="g1162">
+                          <g
+                             id="g1164"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 273.703,-118.074 h 9.633 v -9.633 h -9.633 z"
+                               style="fill:#de8f05;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1166" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1168">
+                <g
+                   id="g1170"
+                   clip-path="url(#clipPath1174)">
+                  <g
+                     id="g1176">
+                    <g
+                       id="g1178">
+                      <g
+                         id="g1180"
+                         clip-path="url(#clipPath1184)">
+                        <g
+                           id="g1186">
+                          <g
+                             id="g1188"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 328,-51.316 h 9.633 v -9.633 H 328 Z"
+                               style="fill:#de8f05;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1190" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1192">
+                <g
+                   id="g1194"
+                   clip-path="url(#clipPath1198)">
+                  <g
+                     id="g1200">
+                    <g
+                       id="g1202">
+                      <g
+                         id="g1204"
+                         clip-path="url(#clipPath1208)">
+                        <g
+                           id="g1210">
+                          <g
+                             id="g1212"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 382.293,-51.316 h 9.633 v -9.633 h -9.633 z"
+                               style="fill:#de8f05;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1214" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1216">
+                <g
+                   id="g1218"
+                   clip-path="url(#clipPath1222)">
+                  <g
+                     id="g1224">
+                    <g
+                       id="g1226">
+                      <g
+                         id="g1228"
+                         clip-path="url(#clipPath1232)">
+                        <g
+                           id="g1234">
+                          <g
+                             id="g1236"
+                             transform="scale(1,-1)">
+                            <path
+                               d="m 436.59,-51.316 h 9.633 v -9.633 h -9.633 z"
+                               style="fill:#de8f05;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.602072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                               id="path1238" />
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1240"
+       transform="translate(3.431495,4.3885417)">
+      <g
+         id="g1242"
+         transform="scale(1,-1)">
+        <path
+           d="M 270.375,-134.016 V -0.5"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1244" />
+      </g>
+      <g
+         id="g1246"
+         transform="scale(1,-1)">
+        <path
+           d="M 449.551,-134.016 V -0.5"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1248" />
+      </g>
+      <g
+         id="g1250"
+         transform="scale(1,-1)">
+        <path
+           d="M 270.375,-134.016 H 449.551"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1252" />
+      </g>
+      <g
+         id="g1254"
+         transform="scale(1,-1)">
+        <path
+           d="M 270.375,-0.5 H 449.551"
+           style="fill:none;stroke:#ffffff;stroke-width:1.00345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1256" />
+      </g>
+      <path
+         d="m 365.656,127.996 h 75.465 c 1.606,0 2.41,-0.801 2.41,-2.406 V 93.227 c 0,-1.606 -0.804,-2.407 -2.41,-2.407 h -75.465 c -1.605,0 -2.406,0.801 -2.406,2.407 v 32.363 c 0,1.605 0.801,2.406 2.406,2.406 z"
+         style="fill:#eaeaf2;fill-opacity:0.8;fill-rule:nonzero;stroke:none"
+         id="path1258" />
+      <g
+         id="g1260"
+         transform="scale(1,-1)">
+        <path
+           d="m 365.656,-127.996 h 75.465 c 1.606,0 2.41,0.801 2.41,2.406 v 32.363 c 0,1.606 -0.804,2.407 -2.41,2.407 h -75.465 c -1.605,0 -2.406,-0.801 -2.406,-2.407 v -32.363 c 0,-1.605 0.801,-2.406 2.406,-2.406 z"
+           style="fill:none;stroke:#cccccc;stroke-width:0.802762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.8"
+           id="path1262" />
+      </g>
+      <g
+         id="g1264"
+         transform="scale(1,-1)">
+        <path
+           d="m 368.066,-99.852 h 24.082"
+           style="fill:none;stroke:#0173b2;stroke-width:1.20414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1266" />
+      </g>
+      <g
+         id="g1268"
+         transform="scale(1,-1)">
+        <path
+           d="m 380.109,-102.258 c 0.637,0 1.25,0.254 1.7,0.703 0.453,0.453 0.707,1.067 0.707,1.703 0,0.641 -0.254,1.254 -0.707,1.704 -0.45,0.453 -1.063,0.707 -1.7,0.707 -0.64,0 -1.254,-0.254 -1.703,-0.707 -0.453,-0.45 -0.707,-1.063 -0.707,-1.704 0,-0.636 0.254,-1.25 0.707,-1.703 0.449,-0.449 1.063,-0.703 1.703,-0.703 z"
+           style="fill:#0173b2;fill-opacity:1;fill-rule:nonzero;stroke:#0173b2;stroke-width:0.802762;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1270" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(401.78207,104.0649)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text1274"><tspan
+           sodipodi:role="line"
+           id="tspan2801"
+           x="0"
+           y="0">Seen</tspan></text>
+      <g
+         id="g1276"
+         transform="scale(1,-1)">
+        <path
+           d="m 368.066,-116.633 h 24.082"
+           style="fill:none;stroke:#de8f05;stroke-width:1.20414;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1278" />
+      </g>
+      <g
+         id="g1280"
+         transform="scale(1,-1)">
+        <path
+           d="m 377.699,-114.223 h 4.816 v -4.82 h -4.816 z"
+           style="fill:#de8f05;fill-opacity:1;fill-rule:nonzero;stroke:#de8f05;stroke-width:0.802762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1282" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(401.78207,120.84724)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9965px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text1286"><tspan
+           sodipodi:role="line"
+           id="tspan2797"
+           x="0"
+           y="0">Unseen</tspan></text>
+    </g>
+  </g>
+</svg>
