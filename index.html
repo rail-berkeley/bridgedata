@@ -23,17 +23,9 @@
     <div class="content-container">
         <h1 class="title">BridgeData V2: A Dataset for Robot Learning at Scale</h1>
         <div class="link-buttons">
-            <ul>
-                <li><a href="#">Paper</a></li>
-                <li><a href="https://github.com/rail-berkeley/BridgeData-V2">Code</a></li>
-                <li><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/raw_8_17.zip">Download demo data
-                        (412 GB)</a></li>
-                <li><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/scripted_raw_6_18.zip">Download
-                        scripted data (31 GB)</a></li>
-            </ul>
-
-
-
+                <div class="link-button"><a href="#"><img src="icons/document-64.png"/><br><span>Paper</span></a></div></li>
+                <div class="link-button"><a href="https://github.com/rail-berkeley/BridgeData-V2"><img src="icons/code-64.png"/><br><span>Code</span></a></div>
+                <div class="link-button"><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/zipped/"><img src="icons/download-64.png"/><br><span>Data</span></a></div>
         </div>
         <p>
             BridgeData V2 is a large and diverse dataset of robotic manipulation behaviors designed to
@@ -218,7 +210,10 @@
         </p>
         <h2>Usage</h2>
         <p>
-            We provide both model training code and pre-trained weights for getting started with BridgeData V2.
+            The dataset can be downloaded <a
+                href="https://rail.eecs.berkeley.edu/datasets/bridge_release/zipped/">here</a> (stored as JPEGS). The
+            teleopearated demonstration data and the data from the scripted pick-and-place policy are provided as
+            separate zip files. We also provide both model training code and pre-trained weights for getting started with BridgeData V2:
         </p>
         <ul>
             <li><a href="https://github.com/rail-berkeley/BridgeData-V2">This repository</a> provides code and
@@ -233,14 +228,10 @@
         <h2>Evaluations of Offline Learning Methods</h2>
         <p>
             We evaluated several state-of-the-art offline learning methods using the dataset. We first evaluated
-            on
-            tasks that are seen in the training data. Even though these tasks are seen in training, the methods
-            must
-            still generalize to novel object positions, distractor objects, and lighting. Next, we evaluated on
-            tasks
-            that require generalizing skills in the data to novel objects and environments. Below we show videos
-            for
-            some of the seen and unseen tasks evaluated in the paper. All videos are shown at 2x speed.
+            on tasks that are seen in the training data. Even though these tasks are seen in training, the methods
+            must still generalize to novel object positions, distractor objects, and lighting. Next, we evaluated on
+            tasks that require generalizing skills in the data to novel objects and environments. Below we show videos
+            for some of the seen and unseen tasks evaluated in the paper. All videos are shown at 2x speed.
         </p>
         <div class="video-container">
             <div class="video-header">
