@@ -23,9 +23,12 @@
     <div class="content-container">
         <h1 class="title">BridgeData V2: A Dataset for Robot Learning at Scale</h1>
         <div class="link-buttons">
-                <div class="link-button"><a href="#"><img src="icons/document-64.png"/><br><span>Paper</span></a></div></li>
-                <div class="link-button"><a href="https://github.com/rail-berkeley/BridgeData-V2"><img src="icons/code-64.png"/><br><span>Code</span></a></div>
-                <div class="link-button"><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/zipped/"><img src="icons/download-64.png"/><br><span>Data</span></a></div>
+            <div class="link-button"><a href="#"><img src="icons/document-64.png" /><br><span>Paper</span></a></div>
+            </li>
+            <div class="link-button"><a href="https://github.com/rail-berkeley/BridgeData-V2"><img
+                        src="icons/code-64.png" /><br><span>Code</span></a></div>
+            <div class="link-button"><a href="https://rail.eecs.berkeley.edu/datasets/bridge_release/zipped/"><img
+                        src="icons/download-64.png" /><br><span>Data</span></a></div>
         </div>
         <p>
             BridgeData V2 is a large and diverse dataset of robotic manipulation behaviors designed to
@@ -37,8 +40,7 @@
         <p>
             To support broad generalization, we collected data for a wide range of tasks in many environments with
             variation in objects, camera pose, and workspace positioning. Each trajectory is labeled with a natural
-            langauge
-            instruction corresponding to the task the robot is performing.
+            langauge instruction corresponding to the task the robot is performing.
         </p>
         <ul>
             <li>60,096 trajectories<ul>
@@ -53,9 +55,10 @@
             <div>
                 <h3>Environments</h3>
                 <p>
-                    The environments include toy kitchens, which feature some combination of sinks,
-                    stoves, and microwaves, as well as various tabletops, a toy laundry machine, a tool chest, and more.
-                    Below we show a sample of the environments.
+                    The 24 environments in BridgeData V2 are grouped into 4 categories. The
+                    majority of the data comes from 7 distinct toy kitchens, which include some combination of sinks,
+                    stoves, and microwaves. The remaining environments come from diverse sources, including various
+                    tabletops, standalone toy sinks, a toy laundry machine, and more.
                 </p>
             </div>
             <div class="video-grid video-teaser">
@@ -114,17 +117,19 @@
                     <img src="teaser_videos/bridge_data_v1_berkeley_toysink2_bww_put_knife_on_cutting_board.jpg" />
                 </div>
             </div>
+            <div class="pie"><img src="figures/envs.svg" /></div>
         </div>
 
         <div class="video-container video-teaser">
             <div>
                 <h3>Skills</h3>
                 <p>
-                    The skills include foundational behaviors like pick-and-place, pushing, and reorienting objects, as
-                    well as
-                    more complex behaviors like opening and closing doors and drawers, stacking blocks, folding cloths,
-                    and
-                    sweeping granular media. Here we show some of the skills represented in the data.
+                    Below we show the various types of skills in BridgeData V2. The majority
+                    of the data comes from foundational object manipulation tasks, such as pick-and-place, pushing,
+                    and sweeping. Additional data comes from environment manipulation, which includes opening and
+                    closing doors and drawers. The remaining data comes from more complex tasks, such as stacking
+                    blocks, folding cloths, and sweeping granular media. Some segments of the data contain mixtures
+                    of these categories.
                 </p>
             </div>
             <div class="video-grid video-teaser">
@@ -171,22 +176,8 @@
                     <img src="teaser_videos/bridge_data_v2_deepthought_folding_table_stack_blocks_01.jpg" />
                 </div>
             </div>
+            <div class="pie"><img src="figures/tasks.svg" /></div>
         </div>
-        <!-- <ul>
-            <li>Pick-and-place (includes reorienting objects in place)</li>
-            <li>Pushing objects</li>
-            <li>Wiping (e.g., wiping the table with a cloth)</li>
-            <li>Sweeping (e.g., sweeping beans into a pile)</li>
-            <li>Stacking</li>
-            <li>Folding cloths</li>
-            <li>Opening and closing drawers</li>
-            <li>Opening and closing doors</li>
-            <li>Opening and closing cardboard box flaps</li>
-            <li>Twisting knobs</li>
-            <li>Flipping switches</li>
-            <li>Zipping and unzipping</li>
-            <li>Turning levers</li>
-        </ul> -->
         <div class="video-container">
             <div class="video-header">
                 <h3>View a Random Trajectory</h3>
@@ -213,7 +204,8 @@
             The dataset can be downloaded <a
                 href="https://rail.eecs.berkeley.edu/datasets/bridge_release/zipped/">here</a> (stored as JPEGS). The
             teleopearated demonstration data and the data from the scripted pick-and-place policy are provided as
-            separate zip files. We also provide both model training code and pre-trained weights for getting started with BridgeData V2:
+            separate zip files. We also provide both model training code and pre-trained weights for getting started
+            with BridgeData V2:
         </p>
         <ul>
             <li><a href="https://github.com/rail-berkeley/BridgeData-V2">This repository</a> provides code and
@@ -222,8 +214,18 @@
                     href="https://docs.google.com/document/d/1si-6cTElTWTgflwcZRPfgHU7-UwfCUkEztkH3ge5CGc/edit?usp=sharing">This
                     guide</a> provides instructions for setting up the robot hardware.</li>
         </ul>
-
-
+        <div class="pie"><img src="figures/cameras.svg" /></div>
+        <p>
+            Above we show a breakdown of the entire dataset, including the autonomously collected data, by what camera
+            views are
+            included. "Over-the-shoulder" refers to the primary fixed camera, and "randomized" refers to the two
+            alternative camera views that are randomized by the data collectors every 50 trajectories. "Depth",
+            when present, is from the same perspective as the primary fixed camera. "Wrist" refers to the
+            wide-angle wrist-mounted camera. More cameras were added to the hardware setup throughout data
+            collection, so the majority of the data only includes the primary fixed camera view, and very little
+            data currently includes all 4 views. However, now that the hardware is in place, more and more data will
+            include all 4 views as the dataset continues to grow.
+        </p>
 
         <h2>Evaluations of Offline Learning Methods</h2>
         <p>

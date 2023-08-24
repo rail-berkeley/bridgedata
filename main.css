@@ -236,3 +236,13 @@ a {
     font-family: "Open Sans", sans-serif;
     font-size: 10pt;
 }
+
+.pie>img {
+    width: 60%;
+    padding: 30pt;
+}
+
+.pie {
+    display: flex;
+    justify-content: center;
+}
