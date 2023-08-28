@@ -36,8 +36,12 @@ video {
 }
 
 .hardware {
-    width: 50%;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.hardware>img {
+    max-width: 100%;
 }
 
 h1,
